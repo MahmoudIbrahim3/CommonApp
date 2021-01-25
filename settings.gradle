@@ -1,0 +1,4 @@
+include ':entity'
+include ':core'
+include ':app'
+rootProject.name = "StartApp"
